@@ -56,7 +56,7 @@ export const plugins: PluginInfoBase[] = [
     ],
     tags: ['interface'],
   },
-{
+  {
     repo: 'alansirius/Zotero-Exitem',
     releases: [
       {
